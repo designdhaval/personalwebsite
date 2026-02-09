@@ -4,7 +4,7 @@ import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
 export function HomePage() {
   return (
     <div className="bg-[#faf8f5]">
-      {/* Hero Section */}
+      {/* Hero Section */} 
       <section className="min-h-screen flex items-center pt-24 md:pt-0">
         <div className="max-w-[1400px] mx-auto px-6 md:px-12 w-full">
           <div className="grid md:grid-cols-2 gap-12 md:gap-16 items-center">
@@ -13,7 +13,7 @@ export function HomePage() {
                 Senior UX Manager — 18+ Years Experience
               </p>
               <h1 className="font-['Cormorant_Garamond'] text-5xl md:text-6xl lg:text-7xl leading-[1.1] text-[#006A4E] mb-8">
-              Leading scalable design strategies for complex enterprise products.
+              Leading design strategy and execution for complex enterprise products.
               </h1>
               <p className="font-['Inter'] text-base md:text-lg leading-relaxed text-[#5a5a5a] mb-8">
                 I'm Dhaval Shah, a Senior UX Manager with 18+ years of experience leading enterprise-scale products across HRTech, FinTech, and data-heavy platforms.
