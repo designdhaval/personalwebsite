@@ -214,8 +214,8 @@ export function WorkPage() {
             Let's discuss how thoughtful design can drive your product forward.
           </p>
           <a
-            href="mailto:dhaval@example.com"
-            className="inline-block px-10 py-5 bg-[#2a2a2a] text-[#faf8f5] font-['Inter'] text-sm tracking-wide hover:bg-[#3a3a3a] transition-colors"
+            href="mailto:design.dhaval@gmail.com"
+            className="inline-block px-10 py-5 bg-[#2a2a2a] text-[#faf8f5] font-['Inter'] text-sm tracking-wide hover:bg-[#006a4e] transition-colors"
           >
             Let's Talk
           </a>

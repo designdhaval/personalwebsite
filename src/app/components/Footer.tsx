@@ -14,24 +14,18 @@ export function Footer() {
           
           <div className="flex flex-col md:flex-row gap-6 md:gap-10">
             <a 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/designdhaval/" 
               target="_blank" 
               rel="noopener noreferrer"
-              className="font-['Inter'] text-sm text-[#7a7a7a] hover:text-[#2a2a2a] transition-colors"
+              className="font-['Inter'] text-sm text-[#7a7a7a] hover:text-[#006a4e] transition-colors"
             >
               LinkedIn
             </a>
             <a 
-              href="mailto:dhaval@example.com"
-              className="font-['Inter'] text-sm text-[#7a7a7a] hover:text-[#2a2a2a] transition-colors"
+              href="mailto:design.dhaval@gmail.com"
+              className="font-['Inter'] text-sm text-[#7a7a7a] hover:text-[#006a4e] transition-colors"
             >
               Email
-            </a>
-            <a 
-              href="#"
-              className="font-['Inter'] text-sm text-[#7a7a7a] hover:text-[#2a2a2a] transition-colors"
-            >
-              Resume
             </a>
           </div>
         </div>

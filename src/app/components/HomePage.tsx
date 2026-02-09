@@ -21,7 +21,7 @@ export function HomePage() {
               <div className="flex gap-4">
                 <a
                   href="#contact"
-                  className="inline-block px-8 py-4 bg-[#2a2a2a] text-[#faf8f5] font-['Inter'] text-sm tracking-wide hover:bg-[#006A4E] transition-colors"
+                  className="inline-block px-8 py-4 bg-[#2a2a2a] text-[#faf8f5] font-['Inter'] text-sm tracking-wide hover:bg-[#006a4e] transition-colors"
                 >
                   Get in Touch
                 </a>
@@ -344,16 +344,16 @@ export function HomePage() {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="mailto:dhaval@example.com"
-              className="inline-block px-10 py-5 bg-[#2a2a2a] text-[#faf8f5] font-['Inter'] text-sm tracking-wide hover:bg-[#3a3a3a] transition-colors"
+              href="mailto:design.dhaval@gmail.com"
+              className="inline-block px-10 py-5 bg-[#2a2a2a] text-[#faf8f5] font-['Inter'] text-sm tracking-wide hover:bg-[#006a4e] transition-colors"
             >
               Email Me
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/designdhaval/"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-block px-10 py-5 border border-[#2a2a2a] text-[#2a2a2a] font-['Inter'] text-sm tracking-wide hover:bg-[#2a2a2a] hover:text-[#faf8f5] transition-colors"
+              className="inline-block px-10 py-5 border border-[#2a2a2a] text-[#2a2a2a] font-['Inter'] text-sm tracking-wide hover:bg-[#006a4e] hover:text-[#faf8f5] hover:border-[#006a4e] transition-colors"
             >
               LinkedIn
             </a>
