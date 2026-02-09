@@ -200,7 +200,7 @@ export function HomePage() {
           </div>
         </div>
       </section>
-
+    
       {/* Work Preview Section */}
       <section id="work" className="py-24 md:py-32 bg-[#faf8f5]">
         <div className="max-w-[1400px] mx-auto px-6 md:px-12">
