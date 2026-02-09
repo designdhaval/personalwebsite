@@ -1,5 +1,6 @@
 import { Link } from "react-router";
 import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
+import timeheroImage from "../../assets/time.png";
 
 export function TimeAbsencePage() {
   return (
@@ -30,7 +31,7 @@ export function TimeAbsencePage() {
       <section className="py-8 md:py-12">
         <div className="max-w-[1400px] mx-auto px-6 md:px-12">
           <ImageWithFallback
-            src="https://images.unsplash.com/photo-1767580176946-e1223a103099?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjbG9jayUyMHRpbWUlMjBtYW5hZ2VtZW50JTIwd29ya3NwYWNlfGVufDF8fHx8MTc3MDA0NTE2NXww&ixlib=rb-4.1.0&q=80&w=1080"
+            src={timeheroImage} 
             alt="Time management workspace"
             className="w-full h-[400px] md:h-[500px] object-cover"
           />
