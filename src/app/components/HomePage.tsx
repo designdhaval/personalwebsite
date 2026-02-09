@@ -206,7 +206,7 @@ export function HomePage() {
         <div className="max-w-[1400px] mx-auto px-6 md:px-12">
           <div className="flex justify-between items-end mb-16">
             <h2 className="font-['Cormorant_Garamond'] text-4xl md:text-5xl text-[#2a2a2a]">
-              Selected Work
+              Selected Works
             </h2>
           </div>
           
