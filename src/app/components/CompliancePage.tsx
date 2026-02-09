@@ -1,7 +1,6 @@
 import { Link } from "react-router";
 import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
 import complianceheroImage from "../../assets/compliance.png";
-
 export function CompliancePage() {
   return (
     <div className="min-h-screen bg-[#faf8f5]">
@@ -33,7 +32,7 @@ export function CompliancePage() {
           <ImageWithFallback
             src={complianceheroImage} 
             alt="Business compliance documentation"
-            className="w-full h-[400px] md:h-[500px] object-cover"
+            className="w-full h-[400px] md:h-[1000px] object-cover"
           />
         </div>
       </section>

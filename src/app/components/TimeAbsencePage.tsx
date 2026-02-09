@@ -33,7 +33,7 @@ export function TimeAbsencePage() {
           <ImageWithFallback
             src={timeheroImage} 
             alt="Time management workspace"
-            className="w-full h-[400px] md:h-[500px] object-cover"
+            className="w-full h-[400px] md:h-[1000px] object-cover"
           />
         </div>
       </section>
