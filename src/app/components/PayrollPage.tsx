@@ -1,6 +1,6 @@
 import { Link } from "react-router";
 import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
-import heroImage from "figma:asset/83c95befe2f230ae6d15e030e8ed0fb36e1ae728.png";
+import heroImage from "../../assets/83c95befe2f230ae6d15e030e8ed0fb36e1ae728.png";
 
 export function PayrollPage() {
   return (
