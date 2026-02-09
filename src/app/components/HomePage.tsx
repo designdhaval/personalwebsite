@@ -48,14 +48,14 @@ export function HomePage() {
           
           <div className="space-y-6 font-['Inter'] text-base md:text-lg leading-relaxed text-[#5a5a5a]">
             <p>
-              Over the past 18+ years, I've worked on enterprise products where UX is shaped by scale, regulation, legacy systems, and organizational complexity—not just screens and interactions.
+              Over the past 18+ years, I've worked on enterprise products where UX is shaped by scale, regulation, legacy systems, and organizational complexity. Not just screens and interactions.
             </p>
             <p>
-              My role goes beyond design execution. I focus on setting UX direction, aligning teams across design, engineering, and product, and helping organizations move from fragmented experiences to cohesive, usable systems.
-            </p>
-            <p>
-              This work requires balancing user needs, business priorities, and technical realitieswhile ensuring teams can design, build, and ship with clarity and confidence.
-            </p>
+              My role goes beyond design execution. I focus on setting UX direction, aligning teams across design, engineering, and product, and helping organizations move from fragmented experiences to cohesive, usable systems. 
+              </p>
+              <p>
+              This work requires balancing user needs, business priorities, and technical realities while ensuring teams can design, build, and ship with clarity and confidence.
+            </p> 
           </div>
         </div>
       </section>
