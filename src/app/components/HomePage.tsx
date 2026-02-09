@@ -13,7 +13,7 @@ export function HomePage() {
                 Senior UX Manager — 18+ Years Experience
               </p>
               <h1 className="font-['Cormorant_Garamond'] text-5xl md:text-6xl lg:text-7xl leading-[1.1] text-[#006A4E] mb-8">
-                Designing and leading scalable UX systems for complex products.
+              Leading scalable design strategies for complex enterprise products.
               </h1>
               <p className="font-['Inter'] text-base md:text-lg leading-relaxed text-[#5a5a5a] mb-8">
                 I'm Dhaval Shah, a Senior UX Manager with 18+ years of experience leading enterprise-scale products across HRTech, FinTech, and data-heavy platforms.
