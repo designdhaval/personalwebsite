@@ -225,7 +225,7 @@ export function HomePage() {
             </Link>
           </div>
           <div className="space-y-8">
-            <Link to="#" className="block py-6 border-b border-[#e5e3df] hover:bg-[#f5f3f0] transition-colors">
+          <Link to="/work/payroll" className="block py-6 border-b border-[#e5e3df] hover:bg-[#f5f3f0] transition-colors">
               <div className="flex justify-between items-center">
                 <div>
                   <h3 className="font-['Cormorant_Garamond'] text-2xl md:text-3xl text-[#2a2a2a] mb-2">
@@ -238,7 +238,7 @@ export function HomePage() {
               </div>
             </Link> 
 
-            <Link to="#" className="block py-6 border-b border-[#e5e3df] hover:bg-[#f5f3f0] transition-colors">
+            <Link to="/work/compliance" className="block py-6 border-b border-[#e5e3df] hover:bg-[#f5f3f0] transition-colors">
               <div className="flex justify-between items-center">
                 <div>
                   <h3 className="font-['Cormorant_Garamond'] text-2xl md:text-3xl text-[#2a2a2a] mb-2">
@@ -251,7 +251,7 @@ export function HomePage() {
               </div>
             </Link>
 
-            <Link to="#" className="block py-6 border-b border-[#e5e3df] hover:bg-[#f5f3f0] transition-colors">
+            <Link to="/work/employee-self-service" className="block py-6 border-b border-[#e5e3df] hover:bg-[#f5f3f0] transition-colors">
               <div className="flex justify-between items-center">
                 <div>
                   <h3 className="font-['Cormorant_Garamond'] text-2xl md:text-3xl text-[#2a2a2a] mb-2">
@@ -264,7 +264,7 @@ export function HomePage() {
               </div>
             </Link>
 
-            <Link to="#" className="block py-6 border-b border-[#e5e3df] hover:bg-[#f5f3f0] transition-colors">
+            <Link to="/work/time-absence" className="block py-6 border-b border-[#e5e3df] hover:bg-[#f5f3f0] transition-colors">
               <div className="flex justify-between items-center">
                 <div>
                   <h3 className="font-['Cormorant_Garamond'] text-2xl md:text-3xl text-[#2a2a2a] mb-2">
